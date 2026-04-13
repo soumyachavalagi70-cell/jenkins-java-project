@@ -18,13 +18,13 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>Emaaaaaaaaaaaaaaaail</label>
+          <label>Email</label>
         </div>
         <div class="form-control">
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> hiiiiii </button>
+        <button type="submit"> byeeebyeee </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
